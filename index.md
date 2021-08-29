@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Bush 631: Quantitative Methods
 
-You can use the [editor on GitHub](https://github.com/rotemdvir/BUSH631_Fall2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website includes all the course material, lectures, R code and additonal resources.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
