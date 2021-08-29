@@ -1,1 +1,10 @@
+title : Course Site for Political Science 318 -- Spring 2021
+author :
+  name : Rotem Dvir
+  email : rdvir@tamu.edu
+  github : rotemdvir
+  twitter : nil
+  feedburner : nil
+
+markdown: kramdown
 theme: jekyll-theme-architect
