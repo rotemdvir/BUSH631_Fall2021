@@ -1,8 +1,10 @@
 ## Lecturer
 
 **Dr. Rotem Dvir** 
-[Email:](rdvir@tamu.edu). 
-[Website:](https://rotemdvir.wixsite.com/mysite)
+
+Email:[rdvir@tamu.edu](rdvir@tamu.edu). 
+
+Website:[https://rotemdvir.wixsite.com/mysite](https://rotemdvir.wixsite.com/mysite)
 
 ## Course Description
 
