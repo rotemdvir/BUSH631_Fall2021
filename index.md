@@ -2,9 +2,9 @@
 
 **Dr. Rotem Dvir** 
 
-Email:[rdvir@tamu.edu](rdvir@tamu.edu). 
+Email: [rdvir@tamu.edu](rdvir@tamu.edu). 
 
-Website:[https://rotemdvir.wixsite.com/mysite](https://rotemdvir.wixsite.com/mysite)
+Website: [https://rotemdvir.wixsite.com/mysite](https://rotemdvir.wixsite.com/mysite)
 
 ## Course Description
 
@@ -13,29 +13,22 @@ The course integrates discussions about research design and data analysis with t
 
 ### Course Material
 
-Syntax highlighted code block
+**Syllabus**. 
 
-# Header 1
-## Header 2
-### Header 3
+**Instructions for Assignments and Tasks**:  
 
-- Bulleted
-- List
+  - Swirl homework assignments.
+  - Research design task I: Soon.
+  - Research design task II: Soon.
+  - Research design task III: Soon.  
 
-1. Numbered
-2. List
+**Writing resources**. 
 
-**Bold** and _Italic_ and `Code` text
+**International Affairs Analysis**:  
 
-[Link](url) and ![Image](src)
-```
+  - Twitter threards.
+  - Recommended websites for foreign policy analysis:
+  - Recommended podcasts on internaitonal affairs:  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Week 1 (08.31.2021)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rotemdvir/BUSH631_Fall2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
