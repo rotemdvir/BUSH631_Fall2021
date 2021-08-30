@@ -13,6 +13,8 @@ The course integrates discussions about research design and data analysis with t
 
 ### Course Material
 
+**Textbook**: Imai, Kosuke. (2017). *Quantitative Social Science: An Introduction*.  
+
 **Syllabus**. 
 
 **Instructions for Assignments and Tasks**:  
@@ -27,8 +29,12 @@ The course integrates discussions about research design and data analysis with t
 **International Affairs Analysis**:  
 
   - Twitter threads.
-  - Recommended websites for foreign policy analysis:
-  - Recommended podcasts on internaitonal affairs:  
+  - Recommended websites:
+  - Recommended podcasts:  
 
-## Week 1 (08.31.2021)
+## Week 1 (08.31.2021). 
+
+  - Required reading: QSS, Chapter 1 (pp. 1-31).
+  - R code:  
+
 
