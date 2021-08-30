@@ -28,9 +28,9 @@ The course integrates discussions about research design and data analysis with t
 
 **International Affairs Analysis**:  
 
-  - Twitter threads.
-  - Recommended websites:
-  - Recommended podcasts: [Paul Poast Pod](https://open.spotify.com/show/57N2HMfcYw3coHTPv1lYw7)  
+  - Twitter threads: [Quantitative Security - Paul Poast](http://www.paulpoast.com/quantitative-security-threads/4594675941).
+  - Recommended websites: [War on the Rocks](https://warontherocks.com); [Political Violence at a Glance](https://politicalviolenceataglance.org);[Monkey Cage](https://monkeycagetopicguides.org); [The Conversation](https://theconversation.com/us).
+  - Recommended podcasts: [Paul Poast Pod](https://open.spotify.com/show/57N2HMfcYw3coHTPv1lYw7); [Intellignece Matters](https://podbay.fm/p/intelligence-matters); [IS: Off the Page](https://www.belfercenter.org/OffthePage); [Chain Reaction(FPRI)](https://www.fpri.org/multimedia/chain-reaction/); [Brookings Cafeteria](https://www.brookings.edu/series/brookings-cafeteria-podcast/); [WOTR Pod](https://warontherocks.com/category/podcasts/war-on-the-rocks/).  
 
 ## Week 1 (08.31.2021). 
 
