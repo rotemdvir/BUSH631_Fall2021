@@ -15,7 +15,7 @@ The course integrates discussions about research design and data analysis with t
 
 **Textbook**: Imai, Kosuke. (2017). *Quantitative Social Science: An Introduction*.  
 
-**Syllabus**. 
+**Syllabus**: [Bush631](BUSH_Syllabus.pdf). 
 
 **Instructions for Assignments and Tasks**:  
 
@@ -30,7 +30,7 @@ The course integrates discussions about research design and data analysis with t
 
   - Twitter threads.
   - Recommended websites:
-  - Recommended podcasts:  
+  - Recommended podcasts: [Paul Poast Pod](https://open.spotify.com/show/57N2HMfcYw3coHTPv1lYw7)  
 
 ## Week 1 (08.31.2021). 
 
