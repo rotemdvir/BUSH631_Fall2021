@@ -17,7 +17,7 @@ The course integrates discussions about research design and data analysis with t
 
 **Syllabus**: [Bush631](BUSH_Syllabus.pdf). 
 
-**Instructions for Assignments and Tasks**:  
+**Assignments and Tasks**:  
 
   - Swirl homework assignments: [Instructions](Fall2021_Tasks/Swirl.pdf).
   - Research design task I: Soon.
@@ -37,6 +37,6 @@ The course integrates discussions about research design and data analysis with t
 ## Week 1 (08.31.2021). 
 
   - Required reading: QSS, Chapter 1 (pp. 1-31).
-  - R code:  
-
+  - R code:
+  - Data:
 
