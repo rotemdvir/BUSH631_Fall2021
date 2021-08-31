@@ -19,12 +19,14 @@ The course integrates discussions about research design and data analysis with t
 
 **Instructions for Assignments and Tasks**:  
 
-  - Swirl homework assignments.
+  - Swirl homework assignments: [Instructions](Fall2021_Tasks/Swirl.pdf).
   - Research design task I: Soon.
   - Research design task II: Soon.
   - Research design task III: Soon.  
 
 **Writing resources**. 
+
+  - Will be added soon.
 
 **International Affairs Analysis**:  
 
