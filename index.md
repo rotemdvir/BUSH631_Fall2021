@@ -37,7 +37,7 @@ The course integrates discussions about research design and data analysis with t
 ## Week 1 (08.31.2021) 
 
   - Required reading: QSS, Chapter 1 (pp. 1-31).
-  - Slides: [Week1](Content/wk1_slides.pdf).
+  - Slides: [QSS & Intro to R](Content/wk1_slides.pdf).
   - R code: [Week1](Code/Week1/Code_week1.R).
   - Data: [Week1](Data/Week1/ags.xlsx).
 
