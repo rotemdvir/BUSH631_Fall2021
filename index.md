@@ -37,16 +37,16 @@ The course integrates discussions about research design and data analysis with t
 ## Week 1 (08.31.2021) 
 
   - Required reading: QSS, Chapter 1 (pp. 1-31).
-  - Slides: [QSS & Intro to R](Content/wk1_slides.pdf).
-  - R code: [Week1](Code/Week1/Code_week1.R).
-  - Data: [Week1](Data/Week1/ags.xlsx).
+  - Slides: [QSS & Intro to R](Content/wk1_slides.pdf)
+  - R code: [Week1](Code/Week1/Code_week1.R)
+  - Data: [Week1](Data/Week1/ags.xlsx)
 
 
 ## Week 2 (09.07.2021) 
 
   - Required reading: QSS, Chapter 2 (pp. 32-54, sections 2.1-2.4).
   - Recommended reading: Mattes, Michaela and Jessica Weeks (2019). "Hawks, Doves, and Peace: An Experimental Approach" *American Journal of Political Science*, 63 (1), pp. 53-66.
-  - Slides: [Causality_I](Content/wk2_slides.pdf). 
-  - R code: [Week2](Code/Week2/Code_week2.R).
-  - Data: [Week2](Data/Week2/MattesWeeksEdit.dta).
+  - Slides: [Causality: vol.I](Content/wk2_slides.pdf)
+  - R code: [Week2](Code/Week2/Code_week2.R)
+  - Data: [Week2](Data/Week2/MattesWeeksEdit.dta)
 
