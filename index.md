@@ -20,7 +20,7 @@ The course integrates discussions about research design and data analysis with t
 **Assignments and Tasks**:  
 
   - Swirl homework assignments: [Instructions](Fall2021_Tasks/Swirl.pdf).
-  - Research design task I: Soon.
+  - Research design task I: [Instructions](Fall2021_Tasks/Task1_Inst.pdf)
   - Research design task II: Soon.
   - Research design task III: Soon.  
 
