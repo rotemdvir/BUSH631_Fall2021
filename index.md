@@ -55,7 +55,7 @@ The course integrates discussions about research design and data analysis with t
 
   - Required reading: QSS, Chapter 2 (pp. 54-74, sections 2.5-2.8).
   - Recommended reading: Fuhrmann, M., and Michael Horowitz. (2015). ["When leaders matter: Rebel experience and nuclear proliferation."](https://doi.org/10.1086/678308) *The Journal of Politics*, 77(1), 72-87.
-  - Slides:
-  - R code:
-  - Data:
+  - Slides: [Causality: vol. II](Content/wk3_slides.pdf)
+  - R code: [Week3](Code/Week2/Code_week3.R)
+  - Data: [Week3](Data/Week3/RebelsDataset_FH2015.dta)
 
