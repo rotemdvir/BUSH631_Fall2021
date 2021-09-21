@@ -59,3 +59,11 @@ The course integrates discussions about research design and data analysis with t
   - R code: [Week3](Code/Week2/Code_week3.R)
   - Data: [Week3](Data/Week3/RebelsDataset_FH2015.dta)
 
+
+## Week 4 (09.21.2021)  
+
+  - Required reading: QSS, Chapter 3 (pp. 75-96, sections 3.1-3.4).
+  - Data: [TerrroismSurvey](Data/Week4/Bush_TerrorSurvey.csv)
+  - Data: [WarEthics](Data/Week4/WarEthics.dta)
+  - Data: [AfghanVillages](Data/Week4/afghan-village.csv)
+
