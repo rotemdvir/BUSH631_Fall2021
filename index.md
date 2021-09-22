@@ -56,7 +56,7 @@ The course integrates discussions about research design and data analysis with t
   - Required reading: QSS, Chapter 2 (pp. 54-74, sections 2.5-2.8).
   - Recommended reading: Fuhrmann, M., and Michael Horowitz. (2015). ["When leaders matter: Rebel experience and nuclear proliferation."](https://doi.org/10.1086/678308) *The Journal of Politics*, 77(1), 72-87.
   - Slides: [Causality: vol. II](Content/wk3_slides.pdf)
-  - R code: [Week3](Code/Week2/Code_week3.R)
+  - R code: [Week3](Code/Week3/Code_week3.R)
   - Data: [Week3](Data/Week3/RebelsDataset_FH2015.dta)
 
 
@@ -66,6 +66,7 @@ The course integrates discussions about research design and data analysis with t
   - Recommended reading: Sagan, S., & Benjamin Valentino. (2018). ["Not just a war theory: American public opinion on ethics in combat."](https://doi.org/10.1093/isq/sqy033) *International Studies Quarterly*, 62(3), 548-561.
   - Recommended reading: Dvir, R., Geva, N., & Arnold Vedlitz. (2021). ["Unpacking Public Perceptions of Terrorism: Does Type of Attack Matter?."](https://doi.org/10.1080/1057610X.2021.1886427) *Studies in Conflict & Terrorism*, 1-21.
   - Slides: [Measurement: vol. I](Content/wk4_slides.pdf)
+  - R Code: [Week4](Code/Week4/Code_week4.R)
   - Data: [TerrroismSurvey](Data/Week4/Bush_TerrorSurvey.csv)
   - Data: [WarEthics](Data/Week4/WarEthics.dta)
   - Data: [AfghanVillages](Data/Week4/afghan-village.csv)
