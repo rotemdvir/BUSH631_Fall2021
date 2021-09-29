@@ -73,7 +73,11 @@ The course integrates discussions about research design and data analysis with t
 
 ## Week 5 (09.28.2021)  
 
+  - Required reading: QSS, Chapter 3 (pp. 96-122, sections 3.5-3.8).
+  - Recommended reading: Huff, C., and Joshua Kertzer. (2018). ["How the public defines terrorism."](https://doi.org/10.1111/ajps.12329) *American Journal of Political Science,* 62(1), 55-71.
+  - Slides: [Measurement: vol. II](Content/wk5_slides.pdf)
+  - R code: [Week5](Code/Week5/Code_week5.R)
   - Data: [CongressVotes](Data/Week5/congress.csv)
   - Data: [UN_Votes](Data/Week5/unvoting.csv)
   - Data: [QB_Contracts](Data/Week5/QB_contracts.xlsx)
-  - 
+
