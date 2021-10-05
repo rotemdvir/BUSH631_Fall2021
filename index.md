@@ -81,3 +81,9 @@ The course integrates discussions about research design and data analysis with t
   - Data: [UN_Votes](Data/Week5/unvoting.csv)
   - Data: [QB_Contracts](Data/Week5/QB_contracts.xlsx)
 
+## Week 6 (10.05.2021)  
+
+  - Required reading: QSS, Chapter 4 (pp. 123-139, section 4.1).
+  - Recommended reading: GAO Report. (2021). ["Defense Budget: Opportunities Exist to Improve DOD's Management of Defense Spending."](https://www.gao.gov/products/gao-21-415t) *US government accountability office website*.
+  - Data: [MilitarySpend1](Data/Week6/mil_exp.xlsx)
+  - Data: [MilitarySpend2](Data/Week6/mil_exp2.xlsx)
