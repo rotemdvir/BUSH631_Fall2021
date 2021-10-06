@@ -86,5 +86,6 @@ The course integrates discussions about research design and data analysis with t
   - Required reading: QSS, Chapter 4 (pp. 123-139, section 4.1).
   - Recommended reading: GAO Report. (2021). ["Defense Budget: Opportunities Exist to Improve DOD's Management of Defense Spending."](https://www.gao.gov/products/gao-21-415t) *US government accountability office website*.
   - Slides: [Prediction: vol. I](Content/wk6_slides.pdf)
+  - R code: [Week6](Code/Week6/Code_week6.R)
   - Data: [MilitarySpend1](Data/Week6/mil_exp.xlsx)
   - Data: [MilitarySpend2](Data/Week6/mil_exp2.xlsx)
