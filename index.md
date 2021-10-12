@@ -94,5 +94,10 @@ The course integrates discussions about research design and data analysis with t
 
   - Required reading: QSS, Chapter 4 (pp. 139-161, section 4.2)
   - Recommended reading: Lin-Greenberg, E. (2019). ["Backing up, not backing down: Mitigating audience costs through policy substitution."](https://doi.org/10.1177%2F0022343319832641), *Journal of Peace Research*, 56(4), 559-574. 
-  - Data:
+  - Data:[Face](Data/Week7/face.csv)
+  - Data: [FloridaVotes](Data/Week7/florida.csv)
+  - Data: [Health](Data/Week7/health.csv)
+  - Data: [AC Backup-Backdown](Data/Week7/Lin_data.csv)
+
+
 
