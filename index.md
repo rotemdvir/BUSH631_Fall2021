@@ -89,3 +89,10 @@ The course integrates discussions about research design and data analysis with t
   - R code: [Week6](Code/Week6/Code_week6.R)
   - Data: [MilitarySpend1](Data/Week6/mil_exp.xlsx)
   - Data: [MilitarySpend2](Data/Week6/mil_exp2.xlsx)
+
+## Week 7 (10.12.2021)  
+
+  - Required reading: QSS, Chapter 4 (pp. 139-161, section 4.2)
+  - Recommended reading: Lin-Greenberg, E. (2019). ["Backing up, not backing down: Mitigating audience costs through policy substitution."](https://doi.org/10.1177%2F0022343319832641), *Journal of Peace Research*, 56(4), 559-574. 
+  - Data:
+
