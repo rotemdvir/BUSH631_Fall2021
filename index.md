@@ -101,5 +101,13 @@ The course integrates discussions about research design and data analysis with t
   - Data: [Health](Data/Week7/health.csv)
   - Data: [AC Backup-Backdown](Data/Week7/Lin_data.csv)
 
+## Week 8 (10.19.2021)  
+
+  - Data: [WomenLeadersFP](Data/Week8/Schwartz_Blair2020.csv)
+  - Data: [WomenLeadersIndia](Data/Week8/women.csv)
+  - Data: [SpendingNATO](Data/Week8/matt_defspend.xlsx)
+  - Data: [SpendLeadersNATO](Data/Week8/defense_spending.dta)
+  - Data: [ICB](Data/Week8/ICB_Feb2020.dta)
+
 
 
