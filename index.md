@@ -106,6 +106,8 @@ The course integrates discussions about research design and data analysis with t
   - Required reading: QSS, Chapter 4 (pp. 161-182, section 4.3)
   - Recommended reading: Schwartz, J. and Christopher Blair. (2020). ["Do Women Make More Credible Threats? Gender Stereotypes, Audience Costs, and Crisis Bargaining."](https://doi.org/10.1017/S0020818320000223) *International Organization*, 74(4), 872-895. 
   - Recommended reading: Fuhrmann, M. (2020). ["When Do Leaders Free-Ride? Business Experience and Contributions to Collective Defense."](https://doi.org/10.1111/ajps.12502) *American Journal of Political Science*, 64(2), 416-431.
+  - Slides: [Prediction: vol. III](Content/wk8_slides.pdf)
+  - R code: [Week8](Code/Week8/Code_week8.R)
   - Data: [WomenLeadersFP](Data/Week8/Schwartz_Blair2020.csv)
   - Data: [WomenLeadersIndia](Data/Week8/women.csv)
   - Data: [SpendingNATO](Data/Week8/matt_defspend.xlsx)
