@@ -22,7 +22,8 @@ The course integrates discussions about research design and data analysis with t
   - Swirl homework assignments: [Instructions](Fall2021_Tasks/Swirl.pdf).
   - Research design task I: [Instructions](Fall2021_Tasks/Task1_Inst.pdf); [Template](Fall2021_Tasks/Experiment_Template.docx)
   - Research design task II: [Instructions&Questions](Fall2021_Tasks/Task2_Inst.pdf); [GradingInfo](Fall2021_Tasks/Task2_Rub.pdf); [Data](Fall2021_Tasks/leaders.csv); [RcodeAnswers](Fall2021_Tasks/PrepFile.R)
-  - Research design task III: [Instructions](Fall2021_Tasks/Task3_Inst.pdf).  
+  - Research design task III: [Instructions](Fall2021_Tasks/Task3_Inst.pdf).
+  - Final project: [Instructions](Fall2021_Tasks/Final_Inst.pdf).   
 
 **Writing resources**. 
 
