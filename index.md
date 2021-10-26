@@ -120,5 +120,10 @@ The course integrates discussions about research design and data analysis with t
   - Data: [SpendLeadersNATO](Data/Week8/defense_spending.dta)
   - Data: [ICB](Data/Week8/ICB_Feb2020.dta)
 
+## Week 9 (10.26.2021)  
 
+  - Required reading: QSS, Chapter 6 (pp. 242-277, sections 6.1-6.2)
+  - Recommended reading: Edry, J., Johnson, J. and Ashley Leeds. (2021). ["Threats at Home and Abroad: Interstate War, Civil War, and Alliance Formation."](https://doi.org/10.1017/S0020818321000151) *International Organization*, 75(3), 837-957.
+  - Data: [AggiesNFL](Data/Week9/Ags_Data.xlsx)
+  - Data: [ATOP_Alliances](Data/Week9/atop5_0m.dta)
 
