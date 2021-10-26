@@ -31,6 +31,7 @@ The course integrates discussions about research design and data analysis with t
   - Mentor reflection on assignment: [MentorText](https://sites.google.com/site/bushmedalofexcellence/major-assignments/mentor-prototype-reflection).
   - Project proposal: [ProposalMemo](https://sites.google.com/site/bushmedalofexcellence/major-assignments/project-proposal-memo?authuser=0).
   - Self-assessment guidelines: [Rubric](https://docs.google.com/document/d/1Xbeutu3pGGRZbQJ19dP-p3yK5asKRLwtJgw4aVJrUnY/edit).
+  - Writing policy documents: [PolicyBrief](https://sites.google.com/site/bushschoolwriting/policy-documents/policy-briefs?authuser=0).
   - More resources on Bush school writing website: [BushWriting_Link](https://sites.google.com/site/bushschoolwriting/welcome). 
 
 **International Affairs Analysis**:  
