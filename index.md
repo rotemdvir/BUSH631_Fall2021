@@ -27,7 +27,11 @@ The course integrates discussions about research design and data analysis with t
 
 **Writing resources**. 
 
-  - Will be added soon.
+  - Critical pillars of writing assignment: [5Ptoolkit](https://sites.google.com/site/bushschoolwriting/5p-toolkit).
+  - Mentor reflection on assignment: [MentorText](https://sites.google.com/site/bushmedalofexcellence/major-assignments/mentor-prototype-reflection).
+  - Project proposal: [ProposalMemo](https://sites.google.com/site/bushmedalofexcellence/major-assignments/project-proposal-memo?authuser=0).
+  - Self-assessment guidelines: [Rubric](https://docs.google.com/document/d/1Xbeutu3pGGRZbQJ19dP-p3yK5asKRLwtJgw4aVJrUnY/edit).
+  - More resources on Bush school writing website: [BushWriting_Link](https://sites.google.com/site/bushschoolwriting/welcome). 
 
 **International Affairs Analysis**:  
 
