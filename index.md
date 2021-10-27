@@ -124,6 +124,8 @@ The course integrates discussions about research design and data analysis with t
 
   - Required reading: QSS, Chapter 6 (pp. 242-277, sections 6.1-6.2)
   - Recommended reading: Edry, J., Johnson, J. and Ashley Leeds. (2021). ["Threats at Home and Abroad: Interstate War, Civil War, and Alliance Formation."](https://doi.org/10.1017/S0020818321000151) *International Organization*, 75(3), 837-957.
+  - Slides: [Probability: vol. I](Content/wk9_slides.pdf)
+  - R code: [Week9](Code/Week9/Code_week9.R)
   - Data: [AggiesNFL](Data/Week9/Ags_Data.xlsx)
   - Data: [ATOP_Alliances](Data/Week9/atop5_0m.dta)
 
