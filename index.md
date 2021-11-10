@@ -131,12 +131,22 @@ The course integrates discussions about research design and data analysis with t
 
 ## Week 10 (11.02.2021)  
 
-  - Required reading: QSS, Chapter 7 (pp. 277-313, sections 6.3-6.5)
+  - Required reading: QSS, Chapter 6 (pp. 277-313, sections 6.3-6.5)
   - Recommended reading: Horowitz, M., McDermott, R., and Alan Stam. (2005). ["Leader age, regime type, and violent international relations."](https://doi.org/10.1177%2F0022002705279469) *Journal of Conflict Resolution*, 49(5), 661-685.
   - Slides: [Probability: vol. II](Content/wk10_slides.pdf)
   - R code: [Week10](Code/Week10/Code_week10.R)
   - Data: [AggiesNFL](Data/Week10/Ags_Data.xlsx)
   - Data: [LeadersAge](Data/Week10/LeaderDataset.dta)
+
+## Week 11 (11.09.2021)  
+
+  - Required reading: QSS, Chapter 7 (pp. 314-342, sections 7.1)
+  - Recommended reading: Robinson, Kali. (2021). ["What is the the Iran Nuclear Deal?"](https://www.cfr.org/backgrounder/what-iran-nuclear-deal) *Council of Foreign Relations website*.
+  - Recommended reading:  Smeltz, D., Farmanesh, A., and Brendon Helm. (2021). ["Iranians and Americans Support A Mutual Return to JCPOA".](https://www.thechicagocouncil.org/research/public-opinion-survey/iranians-and-americans-support-mutual-return-jcpoa) *The Chicago Council on Global Affairs Report*.
+  - Slides: [Uncertainty: vol. I](Content/wk11_slides.pdf)
+  - Code: [Week11](Code/Week11/Code_week11.R)
+
+
 
 
 
