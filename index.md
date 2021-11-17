@@ -146,6 +146,14 @@ The course integrates discussions about research design and data analysis with t
   - Slides: [Uncertainty: vol. I](Content/wk11_slides.pdf)
   - Code: [Week11](Code/Week11/Code_week11.R)
 
+## Week 12 (11.16.2021)  
+
+  - Required reading: QSS, Chapter 7 (pp. 342-369, section 7.2).
+  - Recommended reading: Scotto, T. J., & Reifler, J. (2017). ["Getting tough with the dragon? The comparative correlates of foreign policy attitudes toward China in the United States and UK."](https://doi.org/10.1093/irap/lcw008) *International Relations of the Asia-Pacific*, 17(2), 265-299.
+  - Slides: [Uncertainty: vol. II](Content/wk12_slides.pdf)
+  - Code: [Week12](Code/Week12/Code_week12.R) 
+
+
 
 
 
