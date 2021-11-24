@@ -153,7 +153,13 @@ The course integrates discussions about research design and data analysis with t
   - Slides: [Uncertainty: vol. II](Content/wk12_slides.pdf)
   - Code: [Week12](Code/Week12/Code_week12.R) 
 
+## Week 13 (11.23.2021)  
 
+  - Required reading: QSS, Chapter 7 (pp. 370-390, section 7.3).
+  - Recommended reading: Miller, S. (2014). ["Reading a Regression Table: A Guide for Students"](http://svmiller.com/blog/2014/08/reading-a-regression-table-a-guide-for-students/), *Steven Miller blog*.
+  - Slides: [Uncertainty: vol. III](Content/wk13_slides.pdf)
+  - Code: [Week13](Code/Week13/Code_week13.R)
+  - Data: [Week13](Data/Week3/RebelsDataset_FH2015.dta)
 
 
 
