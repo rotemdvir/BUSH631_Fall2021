@@ -164,7 +164,7 @@ The course integrates discussions about research design and data analysis with t
 ## Week 14 (11.30.2021)  
 
   - Recomeended reading: Avey, P. C., Desch, M. C., Parajon, E., Peterson, S., Powers, R., & Tierney, M. J. (2021). ["Does Social Science Inform Foreign Policy Evidence from a Survey of US National Security, Trade, and Development Officials."](https://doi.org/10.1093/isq/sqab057) *International Studies Quarterly*.
-  - Slides: [Summary&Review](Content/wk13_slides.pdf)
+  - Slides: [Summary&Review](Content/wk14_slides.pdf)
   - Data in the real world: [Documentary](https://www.youtube.com/watch?v=9OIel5NUG7Q)
 
 
